@@ -11,6 +11,7 @@
 
 
 ## Actividad 2
-- Programa 5
-- Programa 6
-- Programa 
+- p05-promedio-de-calificaciones 
+- p06-operaciones-matematicas
+- p07-funciones-trigonometricas
+- p08-dividir-cifras

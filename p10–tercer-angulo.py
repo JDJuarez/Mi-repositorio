@@ -1,0 +1,1 @@
+#Dados dos ángulos de un triángulo, calcular el 3er ángulo, usando la siguiente formula: angulo3 = 180 – (angulo1 + angulo2)

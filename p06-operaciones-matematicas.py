@@ -7,7 +7,7 @@ suma = x + y
 resta = x -y
 mult = x * y
 div = x / y
-dive = x / y
+dive = x // y
 res = x % y
 exp = x ** y
 

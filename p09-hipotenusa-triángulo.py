@@ -1,10 +1,12 @@
 #Se desea calcular la hipotenusa de un triángulo rectángulo dadas las longitudes de sus lados, usando la siguiente formula:
 
 import math
+import os
 
-print('Divide un número de 3 cifras en centenas, decenas, unidades:\n')
-longlado1 = float(input('Dame lo que mide el primer lado del triangulo:\n'))
-lognlado2 = float(input('Dame lo que mide el Segundo lado del triangulo:\n'))
+os.system('cls')
+print('Dame el valor de los 2 catetos separados por un espacio:\n')
+longlado1, longlado2 = input().split()
+longlado1, longlado2 = [float(longlado1), float(longlado2)]
 
-hipotenusa = math.sqrt((lognlado1 * lognlado1)+(lognlado2 * lognlado2))
+hipotenusa = math.sqrt((longlado1 * longlado1)+(longlado2 * longlado2))
 print(f'La hipotesusa del triangulo es: {hipotenusa} ')

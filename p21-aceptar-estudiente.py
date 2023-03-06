@@ -15,6 +15,6 @@ else:
     if c1<8 or c2<8:
         print('No aceptamos calificaciones menores de 8')
     else:
-        print(f'{nombre} bienvenido a la Universidad, tu edad es {edad} y tus califciaciones son {c1} y {c2} lo permiten')
+        print(f'{nombre} bienvenido a la Universidad, tu edad es {edad} años y tus califciaciones son {c1} y {c2} lo permiten')
 
 print('\nProceso terminado')

@@ -67,3 +67,10 @@
 
 ## Primer Examen Parcial
 - p44–primer-examen-parcial
+
+## Actividad 07 - Programas hechos en sesión 9
+- p45-numeros-1-100 
+- p46-numeros-100-1 
+- p47-arriba-abajo
+- p48-suma-pares-impares
+- p49-suma-numeros

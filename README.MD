@@ -74,3 +74,10 @@
 - p47-arriba-abajo
 - p48-suma-pares-impares
 - p49-suma-numeros
+
+## Actividad 08 - Programas hechos en sesión 10
+- p50-factorial
+- p51-tabla-multiplicar
+- p52-tablas-multiplicar
+- p53-piramide-caracter
+- p54-factorial-numeros

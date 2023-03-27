@@ -7,7 +7,7 @@ import os
 while True:
     os.system('cls')
 
-    n = int(input('¿Cuántos términos? ? n->? '))
+    n = int(input('¿Cuántos términos? n->? '))
 
     print(f'\nSalida: ',end=' ')
     s = 0

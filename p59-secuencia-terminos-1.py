@@ -1,5 +1,5 @@
 #Se desea imprimir la secuencia de términos armónicos el numero de renglones que el usuario desee y su suma:
-#¿Cuántos términos?? 5 
+#¿Cuántos términos? ? 5 
 #Salida: 1 + 1/2! + 1/3! + 1/4! + 1/5! , suma: aqui va la suma
 
 import os
@@ -7,7 +7,7 @@ import os
 while True:
     os.system('cls')
 
-    n = int(input('Número de renglones que el usuario desea n->? '))
+    n = int(input('¿Cuántos términos? ? n->? '))
 
     print(f'\nSalida: ',end=' ')
     s = 0

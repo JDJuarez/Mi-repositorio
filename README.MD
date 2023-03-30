@@ -88,3 +88,10 @@
 - p57-secuencia-numeros-1
 - p58–secuencia-numeros-2
 - p59-secuencia-terminos-1
+
+## Actividad 09 - Programas hechos en sesión 11
+- p60–acceder-lista
+- p71–cambiar-lista
+- p72–agregar-lista
+- p73–remover-lista
+- p74–iterar-listas

@@ -95,3 +95,10 @@
 - p72–agregar-lista
 - p73–remover-lista
 - p74–iterar-listas
+
+## Actividad 10- Programas hechos en sesión 12
+- p65–procesar-calificaciones
+- p66–sumar-listas
+- p67-dia-paga
+- p68-nombres-edades
+- p69-listas-aleatorios

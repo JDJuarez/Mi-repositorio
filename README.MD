@@ -110,3 +110,7 @@
 - p73-listas-aleatorios-suma
 - p74-ciudades
 - p75-lista-impares
+
+## Actividad 11- Programas hechos en sesión 13
+- p76–trabajando-conjuntos
+- p77–operaciones-conjuntos

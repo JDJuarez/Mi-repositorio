@@ -13,8 +13,8 @@ print(type(municipios),'\n')
 for m in municipios:
     print('Tuvives en ',m,'\n')
 
-#Si Zacatecas en el conjunto municipios
-print('Zacatecas' in municipios)
+#Si Zacatecas esta en el conjunto municipios
+print('Zacatecas' in municipios, '\n')
 
 #Añadir un municipio / elemento
 municipios.add('Teul')

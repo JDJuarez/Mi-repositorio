@@ -114,3 +114,7 @@
 ## Actividad 11- Programas hechos en sesión 13
 - p76–trabajando-conjuntos
 - p77–operaciones-conjuntos
+
+## Tarea 06 - Conjuntos
+- p78-personas
+- p79-numeros

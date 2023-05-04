@@ -118,3 +118,8 @@
 ## Tarea 06 - Conjuntos
 - p78-personas
 - p79-numeros
+
+## Actividad 12 - Programas hechos en sesión 14
+- p80–estudiante
+- p81–calificaciones
+- p82–nombres-edades

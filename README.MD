@@ -123,3 +123,8 @@
 - p80–estudiante
 - p81–calificaciones
 - p82–nombres-edades
+
+## Actividad 13 - Programas hechos en sesión 15
+- p83–procesar pizza
+- p84–lista-dic-auto
+- p85-lista-dic-estudiante

@@ -82,9 +82,3 @@ print(f'Mujeres  : {smujeres}')
 print(f'Hombres  : {shombres}')
 print(f'Edad     : suma:\t{sEdad},\t\tpromedio: \t{pEdad}')
 print(f'Sueldo   : suma:\t{format(sSueldos,",.2f")},\tpromedio:\t{format(pSueldos,",.2f")}')
-# Resumen: 
-# Empleados : 4
-# Mujeres : 2
-# Hombres : 2
-# Edad: suma : 124, promedio: 31.0
-# Sueldo: suma: 9,700.00, promedio: 2,425.00

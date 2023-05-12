@@ -133,3 +133,6 @@
 - p86-dia-semana
 - p87-numero-romano
 - p88-contar-caracter
+
+## Segundo examen parcial
+- p89–segundo-examen-parcial

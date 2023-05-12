@@ -28,9 +28,9 @@ for k in grupo[0].keys(): #titulos de la tabla (los nombres de las columnas)
 print('\r')
 
 for alumno in grupo: # para cada auto en la lista de autos
-    for v in alumno.values(): #para cada valor de cada columna en se auto
+    for v in alumno.values(): #para cada valor de cada columna en el auto
         print(f'{v}\t', end= '')
-print('\r')
+    print('\r')
 
 # calcular suma de edades
 s = 0

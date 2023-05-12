@@ -128,3 +128,8 @@
 - p83–procesar pizza
 - p84–lista-dic-auto
 - p85-lista-dic-estudiante
+
+## Tarea 07 - Diccionarios
+- p86-dia-semana
+- p87-numero-romano
+- p88-contar-caracter

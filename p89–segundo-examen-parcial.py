@@ -1,11 +1,7 @@
 import os
 os.system('cls')
 
-empleados = [
-    {'nombre':'Carlos', 'edad':45, 'sexo (h/m)':'h','sueldo':7000},
-    {'nombre':'Rocio', 'edad':35, 'sexo (h/m)':'m','sueldo':7000},
-    {'nombre':'Ana', 'edad':35, 'sexo (h/m)':'M','sueldo':7000},
-]
+empleados = []
 
 print('\nMuebleria Muebles Dico')
 print('Sistema de Procesamiento de Empledos')
